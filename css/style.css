@@ -153,13 +153,13 @@ sup {
 }
 
 a {
-  color: #2A4B7C;
-  text-decoration: none;
+  color: #2b703a;
+  text-decoration: underline;
   background-color: transparent;
 }
 a:hover {
-  color: #172843;
-  text-decoration: underline;
+  color: #874bd4;
+  text-decoration: none;
 }
 
 a:not([href]):not([class]) {
